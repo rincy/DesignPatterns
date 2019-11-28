@@ -1,2 +1,2 @@
 # DesignPatterns
-first
+its my first code
